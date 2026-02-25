@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Laird 👋
 
-<!--
-**lairdo7/lairdo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ UBC Engineering student focused on Mechanical & Mechatronics  
+🤖 Interested in robotics, embedded systems, and real-world hardware  
+🛠️ Building at the intersection of design, manufacturing, and software  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Tech**  
+CAD (SolidWorks) • CNC • Arduino & ESP32 • TypeScript • Python • C • C++ • 3d-Printing
+
+🌐 https://lairdscabar.com  
+💼 LinkedIn: https://linkedin.com/in/lairdscabar
+
+⭐ Always building.
